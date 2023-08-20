@@ -1,7 +1,3 @@
-
-<script>
-  import RepoCard from "svelte-repo-card";
-</script>
 <br>
 
 <p align="center">
@@ -24,7 +20,6 @@
     </summary>
     <div>
         <ul>
-            <RepoCard slug="ndg24/AI-Fencing-Recommender" theme="dark" />
             <li><a href="https://forwardfront.org" target="_blank" rel="noopener noreferrer" style="color: #e5f4e3">Forward Front</a></li>
             <li><a href="https://medium.com/@Nilansh" target="_blank" rel="noopener noreferrer" style="color: #e5f4e3">Medium blog</a></li>
             <li><a href="https://img1.wsimg.com/blobby/go/9191e826-b8e2-4be4-9c2c-09e8c7fc1375/downloads/Issue%20_3.pdf?ver=1685207117282" target="_blank" rel="noopener noreferrer" style="color: #e5f4e3;">Published Paper (Page 6)</a></li>
