@@ -22,20 +22,37 @@
         <ul>
             <li><a href="https://forwardfront.org" target="_blank" rel="noopener noreferrer" style="color: #e5f4e3">Forward Front</a></li>
             <li><a href="https://medium.com/@Nilansh" target="_blank" rel="noopener noreferrer" style="color: #e5f4e3">Medium blog</a></li>
-            <li><a href="https://github.com/ndg24/logging-repository" target="_blank" rel="noopener noreferrer" style="color: #e5f4e3;">Logs of commits</a></li>
+            <li><a href="https://img1.wsimg.com/blobby/go/9191e826-b8e2-4be4-9c2c-09e8c7fc1375/downloads/Issue%20_3.pdf?ver=1685207117282" target="_blank" rel="noopener noreferrer" style="color: #e5f4e3;">Published Paper (Page 6)</a></li>
             <li><a href="https://github.com/ndg24?tab=repositories" target="_blank" rel="noopener noreferrer" style="color: #e5f4e3;">All Repositories</a></li>
         </ul>
     </div>
 </details>
 
-<details closed display="flex" align-items="center" color="#ca2c92">
-    <summary>
-        <img src="https://giphy.com/stickers/pokemon-pixel-95PromoujUIuj3ROiP" alt="Fancy up and down pokemon" width=60 style="vertical-align: -0.79em">
-        <h1 style="display: inline-block; color: #e5f4e3; border-bottom: none; padding-left: 0.2em"> Languages and Tools </h1>
-    </summary>
-    <p align="center"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> </a> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </a> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> </a>  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a><a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40" /></a><a href="https://python.langchain.com/docs/get_started/introduction.html" target="_blank" rel="noopener noreferer"><img src="https://em-content.zobj.net/thumbs/160/apple/155/parrot_1f99c.png" alt="langchain" width="40" height="40" /></a><a href="https://pypi.org/project/chromadb/" target="_blank" rel="noopener noreferer"><img src="https://docs.trychroma.com/img/chroma.png" alt="chromadb"  height="40" /></a><a href="https://www.pinecone.io/" target="_blank" rel="noopener noreferer"><img src="https://seeklogo.com/images/P/pinecone-icon-logo-AF8B5B7F96-seeklogo.com.png" alt="pinecone"  height="40" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgres"  height="40" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a></p>
+## Skills:
 
-</details>
+#### Languages:
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+
+#### ML/DL
+
+![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
+
+#### Tools and Technologies
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp;
+
+#### IDEs
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
 
 <p style="color: #ca2c92;" align="center"> Inspiration from github.com/charliemeyer2000</p>
