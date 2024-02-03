@@ -6,7 +6,7 @@
     <a href="https://github.com/ndg24"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=ca2c92&center=true&size=50&vCenter=true&repeat=false&width=510&lines=Nilansh+Dey+Ghosh" alt="Typing YAY" /></a>
 </p>
 <p align="center">
-    <a href="https://github.com/ndg24"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ca2c92&center=true&vCenter=true&width=435&lines=full-stack+developer;accomplished+entrepreneur;civic-tech-advocate;master+of+bytes+and+beats;empowering+community+catalyst;tech+guru,+not+siri;multi-faceted+scholar;sports+and+pixels,+not+pizza" alt="Typing shenannigans and other stuff about me" /></a>
+    <a href="https://github.com/ndg24"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ca2c92&center=true&vCenter=true&width=435&lines=full-stack+developer;accomplished+entrepreneur;civic-tech-advocate;master+of+bytes+and+beats;empowering+community+catalyst;tech+guru,+not+siri;him;sports+and+pixels,+not+pizza" alt="Typing shenannigans and other stuff about me" /></a>
 </p>
 
 <p style="color: #ca2c92">
