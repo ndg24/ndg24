@@ -10,7 +10,7 @@
 </p>
 
 <p style="color: #ca2c92" >
-👋 Hello! I'm Nilansh Dey Ghosh, also known as Neil. As an aspiring entrepreneur and software engineer, I love to code full-stack applications, video games, websites, and much more. Check out my tech/sports/business blog on $~$ <a href="https://medium.com/@Nilansh"/> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=small&logoColor=white" width="50" height="20"/> </a> $~$ or contact me on these platforms for any inquiries: $~$ <a href="mailto:nilansh.d.ghosh@gmail.com"/> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logo=small" width="50" height="20"/> </a> $~$ <a href="https://www.linkedin.com/in/nilansh-ghosh/"/> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="120" height="30"/> </a>
+👋 Hello! I'm Nilansh Dey Ghosh, also known as Neil. As an aspiring entrepreneur and software engineer, I love to code full-stack applications, video games, websites, and much more. Check out my tech/sports/business blog on $~$ <a href="https://medium.com/@Nilansh"/> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=small&logoColor=white" width="50" height="20"/> </a> $~$ or contact me on these platforms for any inquiries: $~$ <a href="mailto:nilansh.d.ghosh@gmail.com"/> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logo=small" width="50" height="20"/> </a> $~$ <a href="https://www.linkedin.com/in/nilansh-ghosh/"/> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100" height="30"/> </a>
 </p>
 
 <hr>
