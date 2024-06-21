@@ -9,8 +9,8 @@
     <a href="https://github.com/ndg24"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ca2c92&center=true&vCenter=true&width=435&lines=full-stack+developer;accomplished+entrepreneur;civic-tech-advocate;master+of+bytes+and+beats;empowering+community+catalyst;tech+guru,+not+siri;him;sports+and+pixels,+not+pizza" alt="Typing shenannigans and other stuff about me" /></a>
 </p>
 
-<p style="color: #ca2c92">
-👋 Hello! I'm Nilansh Dey Ghosh, also known as Neil. As an aspiring entrepreneur and software engineer, I love to code full-stack applications, video games, websites, and much more. Check out my tech/sports/business blog on $~$ <a href="https://medium.com/@Nilansh"/> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=small&logoColor=white" style="border: 1px solid white;"/> </a> $~$ or contact me on these platforms for any inquiries: <a href="mailto:nilansh.d.ghosh@gmail.com"/> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logo=small"/> </a> <a href="https://www.linkedin.com/in/nilansh-ghosh/"/> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<p style="color: #ca2c92" >
+👋 Hello! I'm Nilansh Dey Ghosh, also known as Neil. As an aspiring entrepreneur and software engineer, I love to code full-stack applications, video games, websites, and much more. Check out my tech/sports/business blog on $~$ <a href="https://medium.com/@Nilansh"/> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=small&logoColor=white" style = "border: 1px solid white;"/> </a> $~$ or contact me on these platforms for any inquiries: <a href="mailto:nilansh.d.ghosh@gmail.com"/> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logo=small"/> </a> <a href="https://www.linkedin.com/in/nilansh-ghosh/"/> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 </p>
 
 <hr>
