@@ -35,7 +35,7 @@
       <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ndg24&repo=attentra&theme=jolly" alt="A"></a>
     </div>
     <p align="center">
-  <a href="https://github.com/ndg24?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-More%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=pink"/></a>
+  <a href="https://github.com/ndg24?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-More%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=blue"/></a>
 </p>
 </details>
 
