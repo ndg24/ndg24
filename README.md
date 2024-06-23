@@ -23,22 +23,22 @@
     </summary>
     <div align="center">
         <a href="https://github.com/ndg24/AI-Fencing-Recommender">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ndg24&repo=AI-Fencing-Recommender&theme=jolly" alt="AIFR">
+            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ndg24&repo=AI-Fencing-Recommender&theme=github-dark" alt="AIFR">
         </a>
         <a href="https://github.com/ndg24/forward-front-website">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ndg24&repo=forward-front-website&theme=jolly" alt="FF">
+            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ndg24&repo=forward-front-website&theme=github-dark" alt="FF">
         </a>
         <a href="https://github.com/ndg24/Therapy-Verse">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ndg24&repo=Therapy-Verse&theme=jolly" alt="TV">
+            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ndg24&repo=Therapy-Verse&theme=github-dark" alt="TV">
         </a>
         <a href="https://github.com/ndg24/fetalMonitoringSystemsAndroid">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ndg24&repo=fetalMonitoringSystemsAndroid&theme=jolly" alt="FMSA">
+            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ndg24&repo=fetalMonitoringSystemsAndroid&theme=github-dark" alt="FMSA">
         </a>
         <a href="https://github.com/ndg24/math-genius-ai">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ndg24&repo=math-genius-ai&theme=jolly" alt="MGAI">
+            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ndg24&repo=math-genius-ai&theme=github-dark" alt="MGAI">
         </a>
         <a href="https://github.com/ndg24/attentra">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ndg24&repo=attentra&theme=jolly" alt="A">
+            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ndg24&repo=attentra&theme=github-dark" alt="A">
         </a>
     </div>
     <p align="center">
@@ -85,4 +85,4 @@
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)&nbsp;
 ![XCode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)&nbsp;
 
-<p style="color: #ca2c92;" align
+<p style="color: #1E90FF;" align
