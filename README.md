@@ -1,42 +1,49 @@
 <br>
 
-
-
 <p align="center">
     <a href="https://github.com/ndg24"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=1E90FF&center=true&size=50&vCenter=true&repeat=false&width=510&lines=Nilansh+Dey+Ghosh" alt="Typing YAY" /></a>
 </p>
 <p align="center">
-    <a href="https://github.com/ndg24"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E90FF&center=true&vCenter=true&width=435&lines=full-stack+developer;accomplished+entrepreneur;civic-tech-advocate;master+of+bytes+and+beats;empowering+community+catalyst;tech+guru,+not+siri;him;sports+and+pixels,+not+pizza" alt="Typing shenannigans and other stuff about me" /></a>
+    <a href="https://github.com/ndg24"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E90FF&center=true&vCenter=true&width=435&lines=full-stack+developer;accomplished+entrepreneur;civic-tech-advocate;master+of+bytes+and+beats;empowering+community+catalyst;tech+guru,+not+siri;him;sports+and+pixels,+not+pizza" alt="Typing shenanigans and other stuff about me" /></a>
 </p>
 
-<p style="color: #7DF9FF" >
-👋 Hello! I'm Nilansh Dey Ghosh, also known as Neil. As an aspiring entrepreneur and software engineer, I love to code full-stack applications, video games, websites, and much more. Check out my tech/sports/business blog on $~$ <a href="https://medium.com/@Nilansh"/> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=small&logoColor=white" width="70" height="25"/> </a> $~$ or contact me on these platforms for any inquiries: $~$ <a href="mailto:nilansh.d.ghosh@gmail.com"/> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logo=small" /> </a> $~$ <a href="https://www.linkedin.com/in/nilansh-ghosh/"/> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<p style="color: #1E90FF">
+    👋 Hello! I'm Nilansh Dey Ghosh, also known as Neil. As an aspiring entrepreneur and software engineer, I love to code full-stack applications, video games, websites, and much more. Check out my tech/sports/business blog on <a href="https://medium.com/@Nilansh"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=small&logoColor=white" width="70" height="25"/> </a>
+    or contact me on these platforms for any inquiries: 
+    <a href="mailto:nilansh.d.ghosh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logo=small" /></a>
+    <a href="https://www.linkedin.com/in/nilansh-ghosh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <hr>
 
-<details open display="flex" align-items="center" color="#1E90FF">
-    <summary >
-        <img alt="Whispering..." src="https://media.giphy.com/media/cOR2fPCZgErzi6COcG/giphy.gif" width="60" height="60" style="display: inline-block; vertical-align:-1em">
-        <h1 style="display: inline-block; color: #e5f4e3; border-bottom: none" >Projects</h1>
+<details open style="background-color: #4682B4; color: #1E90FF;">
+    <summary>
+        <img alt="Whispering..." src="https://media.giphy.com/media/cOR2fPCZgErzi6COcG/giphy.gif" width="60" height="60" style="display: inline-block; vertical-align: -1em">
+        <h1 style="display: inline-block; color: #e5f4e3; border-bottom: none">Projects</h1>
     </summary>
     <div align="center">
         <a href="https://github.com/ndg24/AI-Fencing-Recommender">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ndg24&repo=AI-Fencing-Recommender&theme=jolly" alt="AIFR"></a>
+            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ndg24&repo=AI-Fencing-Recommender&theme=jolly" alt="AIFR">
+        </a>
         <a href="https://github.com/ndg24/forward-front-website">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ndg24&repo=forward-front-website&theme=jolly" alt="FF"></a>
+            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ndg24&repo=forward-front-website&theme=jolly" alt="FF">
+        </a>
         <a href="https://github.com/ndg24/Therapy-Verse">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ndg24&repo=Therapy-Verse&theme=jolly" alt="TV"></a>
+            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ndg24&repo=Therapy-Verse&theme=jolly" alt="TV">
+        </a>
         <a href="https://github.com/ndg24/fetalMonitoringSystemsAndroid">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ndg24&repo=fetalMonitoringSystemsAndroid&theme=jolly" alt="FMSA"></a>
+            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ndg24&repo=fetalMonitoringSystemsAndroid&theme=jolly" alt="FMSA">
+        </a>
         <a href="https://github.com/ndg24/math-genius-ai">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ndg24&repo=math-genius-ai&theme=jolly" alt="MGAI"></a>
+            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ndg24&repo=math-genius-ai&theme=jolly" alt="MGAI">
+        </a>
         <a href="https://github.com/ndg24/attentra">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ndg24&repo=attentra&theme=jolly" alt="A"></a>
+            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ndg24&repo=attentra&theme=jolly" alt="A">
+        </a>
     </div>
     <p align="center">
-  <a href="https://github.com/ndg24?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-More%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=blue"/></a>
-</p>
+        <a href="https://github.com/ndg24?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-More%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=blue"/></a>
+    </p>
 </details>
 
 
@@ -78,5 +85,4 @@
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)&nbsp;
 ![XCode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)&nbsp;
 
-
-<p style="color: #ca2c92;" align="center"> Inspiration from github.com/charliemeyer2000</p>
+<p style="color: #ca2c92;" align
