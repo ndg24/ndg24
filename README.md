@@ -8,7 +8,7 @@
 </p>
 
 <p style="color: #1E90FF">
-    👋 Hello! I'm Nilansh Dey Ghosh, also known as Neil. As an aspiring entrepreneur and software engineer, I love to code full-stack applications, video games, websites, and much more. Check out my tech/sports/business blog on <a href="https://medium.com/@Nilansh"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=small&logoColor=white" width="70" height="25"/> </a>
+    👋 Hello! I'm Nilansh Dey Ghosh, also known as Neil. As an aspiring entrepreneur and software engineer, I love to code full-stack applications, video games, websites, and much more. Check out my tech and sports business blog on <a href="https://medium.com/@Nilansh"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=small&logoColor=white" width="70" height="25"/> </a>
     or contact me on these platforms for any inquiries: 
     <a href="mailto:nilansh.d.ghosh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logo=small" /></a>
     <a href="https://www.linkedin.com/in/nilansh-ghosh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -52,6 +52,7 @@
 #### Languages:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
@@ -59,7 +60,6 @@
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
 
 #### ML/DL
@@ -71,9 +71,9 @@
 
 #### Tools and Technologies
 
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp;
 
 
