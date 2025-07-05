@@ -18,7 +18,6 @@
 
 <details open style="background-color: #4682B4; color: #1E90FF;">
     <summary>
-        <img alt="Whispering..." src="https://media.giphy.com/media/cOR2fPCZgErzi6COcG/giphy.gif" width="60" height="60" style="display: inline-block; vertical-align: -1em">
         <h1 style="display: inline-block; color: #e5f4e3; border-bottom: none">Projects</h1>
     </summary>
     <div align="center">
