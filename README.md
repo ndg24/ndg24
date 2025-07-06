@@ -16,42 +16,13 @@
 
 <hr>
 
-<details open style="background-color: #4682B4; color: #1E90FF;">
-    <summary>
-        <h1 style="display: inline-block; color: #e5f4e3; border-bottom: none">Projects</h1>
-    </summary>
-    <div align="center">
-        <a href="https://github.com/ndg24/AI-Fencing-Recommender">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ndg24&repo=AI-Fencing-Recommender&theme=prussian" alt="AIFR">
-        </a>
-        <a href="https://github.com/ndg24/forward-front-website">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ndg24&repo=forward-front-website&theme=prussian" alt="FF">
-        </a>
-        <a href="https://github.com/ndg24/Therapy-Verse">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ndg24&repo=Therapy-Verse&theme=prussian" alt="TV">
-        </a>
-        <a href="https://github.com/ndg24/fetalMonitoringSystemsAndroid">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ndg24&repo=fetalMonitoringSystemsAndroid&theme=prussian" alt="FMSA">
-        </a>
-        <a href="https://github.com/ndg24/math-genius-ai">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ndg24&repo=math-genius-ai&theme=prussian" alt="MGAI">
-        </a>
-        <a href="https://github.com/ndg24/attentra">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ndg24&repo=attentra&theme=prussian" alt="A">
-        </a>
-    </div>
-    <p align="center">
-        <a href="https://github.com/ndg24?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-More%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=blue"/></a>
-    </p>
-</details>
-
 
 # Skills
 
 #### Languages:
 
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)]&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
@@ -61,14 +32,16 @@
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)&nbsp;
 
 
-#### ML/DL
+#### Frameworks
 
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 
-#### Tools and Technologies
+#### Tools
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
