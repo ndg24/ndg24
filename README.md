@@ -8,8 +8,11 @@
 </p>
 
 <p style="color: #1E90FF">
-    👋 Hello! I'm Nilansh Dey Ghosh, also known as Neil. I currently study at Vanderbilt, previously founded my own startup, and have worked at NASA, OpenAI, Home Depot and more! Check out my sports tech and business blog on <a href="https://medium.com/@Nilansh"><img src="https://img.shields.io/badge/Medium-12100E?logoColor=white&logoWidth=15"/> </a>
-    or contact me on these platforms for any inquiries: 
+    👋 Hi — I'm Nilansh Dey Ghosh (but you can call me Neil)! I'm currently a student at Vanderbilt University, passionate about building things at the intersection of technology, business, and social impact.
+
+I've previously founded my own startup and had the privilege to work with organizations like NASA, OpenAI, and The Home Depot. I also run a sports tech and business blog on <a href="https://medium.com/@Nilansh"><img src="https://img.shields.io/badge/Medium-12100E?logoColor=white&logoWidth=15"/> </a> where I explore how innovation shapes the future of sports.
+
+Feel free to connect! I'm always open to collaborating, chatting about ideas, or answering questions:
     <a href="mailto:nilansh.d.ghosh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&logo=small" /></a>
     <a href="https://www.linkedin.com/in/nilansh-ghosh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
 </p>
