@@ -17,9 +17,6 @@ Feel free to connect! I'm always open to collaborating, chatting about ideas, or
     <a href="https://www.linkedin.com/in/nilansh-ghosh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
 </p>
 
-<hr>
-
-
 # Skills
 
 #### Languages:
