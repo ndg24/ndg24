@@ -18,7 +18,6 @@ Feel free to connect! I'm always open to collaborating, chatting about ideas, or
 </p>
 
 # Skills
-
 #### Languages:
 
 ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
