@@ -10,7 +10,7 @@
 <p style="color: #1E90FF">
     👋 Hi — I'm Nilansh Dey Ghosh (but you can call me Neil)! I'm currently a student at Vanderbilt University, passionate about building things at the intersection of technology, business, and social impact.
 
-I've previously founded my own startup and had the privilege to work with organizations like NASA, OpenAI, and The Home Depot. I also run a sports tech and business blog on <a href="https://medium.com/@Nilansh"><img src="https://img.shields.io/badge/Medium-12100E?logoColor=white&logoWidth=15"/> </a> where I explore how innovation shapes the future of sports.
+I've previously founded my own startup and had the privilege to work with organizations like NASA, a16z, and The Home Depot. I also run a sports tech and business blog on <a href="https://medium.com/@Nilansh"><img src="https://img.shields.io/badge/Medium-12100E?logoColor=white&logoWidth=15"/> </a> where I explore how innovation shapes the future of sports.
 
 Feel free to connect! I'm always open to collaborating, chatting about ideas, or answering questions:
     <a href="mailto:nilansh.d.ghosh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&logo=small" /></a>
