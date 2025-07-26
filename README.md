@@ -4,7 +4,7 @@
     <a href="https://github.com/ndg24"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=1E90FF&center=true&size=50&vCenter=true&repeat=false&width=510&lines=Nilansh+Dey+Ghosh" alt="Typing YAY" /></a>
 </p>
 <p align="center">
-    <a href="https://github.com/ndg24"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=1E90FF&center=true&vCenter=true&width=435&lines=neil;full-stack+developer;neil;entrepreneur;neil;civic-tech-advocate;neil;tech+whiz;neil;him" alt="Typing shenanigans and other stuff about me" /></a>
+    <a href="https://github.com/ndg24"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=1E90FF&center=true&vCenter=true&width=435&lines=neil;full-stack+developer;neil;entrepreneur;neil;civic-tech-advocate;neil;tech+whiz;neil;him" alt="Typing shenanigans and other stuff about me" /></a>
 </p>
 
 <p style="color: #1E90FF">
