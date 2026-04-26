@@ -58,4 +58,4 @@ Feel free to connect! I'm always open to collaborating, chatting about ideas, or
 
 <p style="color: #1E90FF;" align
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=ndg24)
