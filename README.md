@@ -8,13 +8,13 @@
 </p>
 
 <p style="color: #1E90FF">
-👋 Hi — I'm Nilansh Dey Ghosh (but you can call me Neil)! I'm a Computer Science & Mathematics student at Vanderbilt University interested in building the infrastructure behind scalable software systems, with a focus on distributed systems, cloud infrastructure, data engineering, and AI agent orchestration.
+👋 Hi, I'm Nilansh (Neil) Dey Ghosh! I'm a Computer Science & Mathematics student at Vanderbilt University interested in building the infrastructure behind scalable software systems, with a focus on distributed systems, cloud infrastructure, data engineering, and AI agent orchestration.
 
-I'm currently interning as a Software Engineer at Capital One. Previously, I've had the opportunity to work with NASA, The Home Depot, and a16z; conduct research with Princeton, Georgia Tech, and NYU; and found my own startup.
+I'm currently interning as a Software Engineer at Capital One. Previously, I've had the opportunity to work with a16z, NASA, and The Home Depot; conduct research at Princeton, Georgia Tech, and NYU; and founded my own startup.
 
-Outside of engineering, I write about sports technology and business on <a href="https://medium.com/@Nilansh"><img src="https://img.shields.io/badge/Medium-12100E?logoColor=white&logoWidth=15"/></a>. I also enjoy reading about psychology, hiking, collecting shot glasses from my travels, experimenting with cinematography, and spending way too much time playing board games.
+Outside of engineering, I write about sports technology and business on <a href="https://medium.com/@Nilansh"><img src="https://img.shields.io/badge/Medium-12100E?logoColor=white&logoWidth=15"/></a>. I also enjoy reading about psychology, hiking, collecting shot glasses from my travels, experimenting with cinematography, and playing board games.
 
-Feel free to connect! I'm always open to collaborating, discussing ideas, or just chatting about technology.
+Feel free to connect! 
 <a href="mailto:nilansh.d.ghosh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&logo=small" /></a>
 <a href="https://www.linkedin.com/in/nilansh-ghosh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
 </p>
