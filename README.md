@@ -42,6 +42,8 @@ Feel free to connect!
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)&nbsp;
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)&nbsp;
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)&nbsp;
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white)&nbsp;
+![MCP](https://img.shields.io/badge/MCP-CC785C?style=for-the-badge&logoColor=white)&nbsp;
 
 #### Cloud, Infrastructure & DevOps
 ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-232F3E?style=for-the-badge&logo=aws&logoColor=white)&nbsp;
@@ -65,6 +67,7 @@ Feel free to connect!
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![Apache Iceberg](https://img.shields.io/badge/Apache_Iceberg-0468DB?style=for-the-badge&logoColor=white)&nbsp;
 ![Apache Polaris](https://img.shields.io/badge/Apache_Polaris-00A1E0?style=for-the-badge&logoColor=white)&nbsp;
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)&nbsp;
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white)&nbsp;
 
