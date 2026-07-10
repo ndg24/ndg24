@@ -8,13 +8,15 @@
 </p>
 
 <p style="color: #1E90FF">
-    👋 Hi — I'm Nilansh Dey Ghosh (but you can call me Neil)! I'm currently a student at Vanderbilt University, passionate about building things at the intersection of technology, business, and social impact.
+👋 Hi — I'm Nilansh Dey Ghosh (but you can call me Neil)! I'm a Computer Science & Mathematics student at Vanderbilt University interested in building the infrastructure behind scalable software systems, with a focus on distributed systems, cloud infrastructure, data engineering, and AI agent orchestration.
 
-I've previously founded my own startup and had the privilege to work with organizations like NASA, a16z, Capital One, and The Home Depot. I also run a sports tech and business blog on <a href="https://medium.com/@Nilansh"><img src="https://img.shields.io/badge/Medium-12100E?logoColor=white&logoWidth=15"/> </a> where I explore how innovation shapes the future of sports.
+I'm currently interning as a Software Engineer at Capital One. Previously, I've had the opportunity to work with NASA, The Home Depot, and a16z; conduct research with Princeton, Georgia Tech, and NYU; and found my own startup.
 
-Feel free to connect! I'm always open to collaborating, chatting about ideas, or answering questions:
-    <a href="mailto:nilansh.d.ghosh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&logo=small" /></a>
-    <a href="https://www.linkedin.com/in/nilansh-ghosh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
+Outside of engineering, I write about sports technology and business on <a href="https://medium.com/@Nilansh"><img src="https://img.shields.io/badge/Medium-12100E?logoColor=white&logoWidth=15"/></a>. I also enjoy reading about psychology, hiking, collecting shot glasses from my travels, experimenting with cinematography, and spending way too much time playing board games.
+
+Feel free to connect! I'm always open to collaborating, discussing ideas, or just chatting about technology.
+<a href="mailto:nilansh.d.ghosh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&logo=small" /></a>
+<a href="https://www.linkedin.com/in/nilansh-ghosh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
 </p>
 
 # Skills
